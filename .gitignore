@@ -1,0 +1,43 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Dataset folders (large)
+final_data/
+backup_models/data/
+
+# Ignore dataset images
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+
+# BUT keep UI image
+!signs.png
+
+# ML logs
+logs/
+tensorboard/
+
+# Runtime output
+output_speech.wav
+
+# Temporary files
+*.tmp
+*.swp
