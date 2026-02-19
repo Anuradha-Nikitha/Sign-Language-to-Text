@@ -79,13 +79,13 @@ Sign-Language-to-Text-master/
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/yourusername/Sign-Language-to-Text.git
+git clone https://github.com/Anuradha-Nikitha/Sign-Language-to-Text
 cd Sign-Language-to-Text-master
 ```
 
 ### Step 2: Install Dependencies
 ```bash
-pip install -r requirements_pip.txt
+pip install -r requirements.txt
 ```
 
 **Key Dependencies:**
